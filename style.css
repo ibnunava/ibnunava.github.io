@@ -1,0 +1,9 @@
+h1{
+    color: navy;
+    cursor: pointer;
+    transition: 0.2s;
+}
+    h1:hover{
+        color: blue;
+        letter-spacing: 2px;
+    }
